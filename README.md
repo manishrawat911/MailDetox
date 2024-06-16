@@ -1,5 +1,5 @@
 # MailDetox
-Imporatant: This is a future project
+Important: This is a future project
 
 MailDetox is an utility to detox your mailbox. MailDetox will help users to maintain their inbox by organizing messages and identify threads that are problematic.
 
